@@ -76,6 +76,7 @@ routes. Structure Crystal Ball modules in db.
 ### Routes:
 
 Login "/login"
+(incorrect login goes to /noAuth ---> /login)
 
 Users Homepage "/"
 

@@ -1,9 +1,8 @@
-# 🔮 Hard Pitch 🔮
+<center>
 
-### App Name:
+# ✨✨✨ 🔮 Madame's Parlor of Fortune 🔮 ✨✨✨
 
-current working title: 🧙‍♀️ Madam's Parlor of Fortune 🧙‍♀️
-
+</center>
 ### Description:
 
 Our user is someone on-the-go seeking advise. Our app will be a one-stop-shop that offers many different types of wisdom and advice. Whether you need a daily horoscope, a reading from a fortune teller or words of wisdom from a magic-8 ball, you are covered. Also, the user may log back into their account to see past dated readings.

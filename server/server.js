@@ -25,6 +25,7 @@ app.get("/", (req, res) => {
 });
 
 //Controllers//
+app.use("/api-v1/users"), require("./controllers/api-v1/usersController");
 
 //Tell Express to Listen on Port//
 app.listen(PORT, () => {

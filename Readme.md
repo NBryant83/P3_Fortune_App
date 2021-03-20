@@ -86,7 +86,7 @@ Logout "/logout"
 
 ### Schema:
 
-![schema](./schema.png)
+![schema](./WireFrame/schema.png)
 
 ### Technologies and APIs:
 
